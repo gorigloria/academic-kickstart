@@ -5,16 +5,16 @@
 # Configure the English version of the site.
 [en]
   languageCode = "en-us"
-  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+#  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[it]
-languageCode = "it"
-contentDir = "content/it"
-title = "Gloria Gori (it)"
-[it.params]
-description = "La mia pagina web"
-[[it.menu.main]]
-name = "About"
-url = "#about"
-weight = 1
+# [it]
+# languageCode = "it"
+# contentDir = "content/it"
+# title = "Gloria Gori (it)"
+# [it.params]
+# description = "La mia pagina web"
+# [[it.menu.main]]
+# name = "About"
+# url = "#about"
+# weight = 1
