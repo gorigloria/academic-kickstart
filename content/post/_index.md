@@ -10,6 +10,6 @@ date: 2020-07-30T09:55:15.252Z
 featured: false
 image:
   filename: featured.jpg
-  preview_only: false
+  preview_only: true
 ---
 Let's start.
