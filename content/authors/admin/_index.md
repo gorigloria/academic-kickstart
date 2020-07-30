@@ -10,9 +10,7 @@ role: Postdoctoral research fellow
 bio: My research interests include model checking, requirement engineering,
   product line engineering, railway product development and safety assessment.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Model Checking Railways and so on
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,8 +40,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Glora Gori blablabla
-
-blablabla
-
-e blablabla.
+Gloria Gori was born in Florence and got a BSc and MSc in Computer Science by the University of Florence. In 2018 she also achieved her PhD in Computer Science and she is actually a research fellow in the Software Technology Laboratory of the University of Florence.
