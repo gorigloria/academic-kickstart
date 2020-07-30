@@ -7,9 +7,9 @@ header:
 title: My very first post
 subtitle: My very first post
 date: 2020-07-30T09:55:15.252Z
-featured: true
+featured: false
 image:
-  filename: man-in-white-and-blue-floral-dress-shirt-and-black-4177291.jpg
-  preview_only: true
+  filename: featured.jpg
+  preview_only: false
 ---
 Let's start.
