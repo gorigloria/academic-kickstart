@@ -1,14 +1,15 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: true
 view: 2
-
-# Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
   image: ""
+title: Posts
+subtitle: My very first post
+date: 2020-07-30T09:55:15.252Z
+featured: true
+image:
+  filename: man-in-white-and-blue-floral-dress-shirt-and-black-4177291.jpg
+  preview_only: true
 ---
+Let's start.
