@@ -19,4 +19,4 @@ image:
   alt_text: A trial image for a trial post.
   focal_point: CENTER
 ---
-Let's start with a post.
+Let's start with a post
