@@ -1,29 +1,19 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Vediamo se ora funziona maremma ciua"
-subtitle: "gnamo"
 summary: ""
+draft: true
 authors: []
+lastmod: 2020-07-31T16:38:53+02:00
+title: Vediamo se ora funziona peddavvero maremma ciua
+subtitle: gnamo
+date: 2020-07-31T16:38:53+02:00
+featured: true
 tags: []
 categories: []
-date: 2020-07-31T16:38:53+02:00
-lastmod: 2020-07-31T16:38:53+02:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  filename: featured.jpg
 ---
+Go live.
