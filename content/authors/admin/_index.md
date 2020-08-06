@@ -2,7 +2,7 @@
 title: Alessandro Fantechi
 role: Full Professor and President of the School of Engineering at the
   University of Florence
-avatar_filename: alessandrofantechi.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Florence
     url: ""

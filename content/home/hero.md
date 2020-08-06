@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academic"
+title = "Exams&Thesis"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
@@ -44,7 +44,7 @@ hero_media = "hero-academic.png"
   
 [cta_alt]
   url = "https://sourcethemes.com/academic/"
-  label = "View Documentation"
+  label = "View results of the last session"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
